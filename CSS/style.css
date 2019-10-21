@@ -232,12 +232,17 @@ p {
 
 /*//Mobile CSS*/
 @media only screen and (min-width: 768px) {
-
+  #mobile-heade {
+    display: none;
+  }
 }
 
 @media only screen and (max-width: 375px) {
  #mobile-header {
-  display: inline;
+  display: block;
+ }
+ #navbar {
+  display: none;
  }
 }
 
