@@ -7,6 +7,13 @@
     window.open ("https://www.instagram.com/izosimova_nadya");
   }
 
+function openNav() {
+    document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+}
 
 
 // var slideIndex = 1;
