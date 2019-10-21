@@ -121,7 +121,8 @@ header {
 }
 
 .sidenav a:hover, .offcanvas a:focus {
-  color: #F7FF05;
+  /*color: #F7FF05;*/
+  cloro: #ffdd03
 }
 .closebtn {
   position: absolute;
@@ -133,7 +134,7 @@ header {
 span {
    font-size:3.125em;
    margin-right: 3rem;
-   margin-top: 1.3rem;
+   margin-top: 1rem;
    float: right;
    cursor:pointer;
 }
@@ -280,9 +281,9 @@ p {
 
 /*//Mobile CSS*/
 @media only screen and (min-width: 768px) {
-/*  #mobile-header {
+  #mobile-header {
     display: none;
-  }*/
+  }
 }
 
 @media only screen and (max-width: 500px) {
