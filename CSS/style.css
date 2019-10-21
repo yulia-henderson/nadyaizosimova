@@ -186,6 +186,7 @@ span {
 #contact_info {
 /*  background-color: #E4E3E8;*/
   margin: 1% 40%;
+  text-align: center;
 
 }
 
@@ -314,8 +315,7 @@ p {
 }
 
 #contact_info {
-
-  margin: 1% 15%
+   margin: 2% 15%;
 }
 
 }
