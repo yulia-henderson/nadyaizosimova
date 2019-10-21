@@ -95,7 +95,7 @@ header {
   width: 0;
   position: absolute;
   z-index: 1;
-  top: 70px;
+  top: 1rem;
   right: 0;
   background: #111;
   overflow-x: hidden;
@@ -127,7 +127,8 @@ header {
 }
 span {
    font-size:3.125em;
-   margin-right: 25px;
+   margin-right: 3rem;
+   margin-top: 1.3rem;
    float: right;
    cursor:pointer;
 }
@@ -279,13 +280,37 @@ p {
   }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 500px) {
  #mobile-header {
   display: block;
  }
  #navbar {
   display: none;
  }
+
+ #logo {
+   margin-left: 5%;
+ }
+
+ #mainLogo {
+  width: 100%;
+ }
+
+ #column_1, #column_2, #column_3 {
+  float: left;
+  width: 90%;
+  padding: 1rem;
+}
+
+#products {
+  padding-top: 6rem;
+}
+
+#contact_info {
+
+  margin: 1% 20%
+}
+
 }
 
 
