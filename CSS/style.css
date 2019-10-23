@@ -209,7 +209,7 @@ span {
 /*//About_me style*/
 
 #about_info {
-  width: 80%;
+  max-width: 80%;
   margin: 0 auto;
   padding-top: 12rem;
   background-color: #F8F5F9;
@@ -276,6 +276,12 @@ p {
   float: left;
   width: 20%;
   padding: 1rem;
+
+}
+
+#project_1, #project_2, #project_3 {
+  margin: 0 auto;
+  justify-content: center;
 }
 
 .project_work {
@@ -347,6 +353,10 @@ h2 {
 #about_info {
   width: 90%;
   padding-top: 4rem;
+}
+
+#artist_name {
+  font-size: 1.5rem;
 }
 
 #main_photo {
