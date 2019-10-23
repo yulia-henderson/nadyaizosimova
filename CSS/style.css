@@ -368,6 +368,34 @@ h2 {
   margin: 0;
 }
 
+/*//Events Style*/
+
+#event_photo {
+  float: left;
+  width: 100%;
+  height: 100%;
+}
+
+.event_info {
+
+}
+
+/*//Contacts Style*/
+
+.contact_info {
+  padding-top: 8rem;
+}
+
+.contact {
+  margin-left: 35%;
+}
+
+.contact_details {
+  margin: 0 30% 12% 30%;
+  line-height: 2rem;
+
+}
+
 
 }
 
