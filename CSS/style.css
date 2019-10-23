@@ -133,7 +133,7 @@ header {
 }
 span {
    font-size:3.125em;
-   margin-right: 3rem;
+   margin-right: 4rem;
    margin-top: 1rem;
    margin-bottom: 1rem;
    float: right;
@@ -319,6 +319,7 @@ h2 {
  }
 
  #logo {
+  margin-top: 2%;
    margin-left: 5%;
    margin-bottom: 5%;
  }
