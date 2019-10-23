@@ -354,6 +354,20 @@ h2 {
   margin: 2rem 0 2rem 2rem;
 }
 
+/*//works*/
+
+.main_container {
+  width: 90%;
+  padding-top: 8rem;
+}
+
+#row_1, #row_2, #row_3, #row_4, #row_5, #row_6, #row_7, #row_8, #row_9, #row_10 {
+  float: left;
+  width: 100%;
+  padding: 0.5rem;
+  margin: 0;
+}
+
 
 }
 
