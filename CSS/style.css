@@ -420,18 +420,27 @@ h3 {
 /*//Contacts Style*/
 
 #contact_info {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
+  max-width: 40%;
+  padding-top: 16rem;
+  margin: 0 auto;
+  margin-bottom: 5%;
+}
+
+#contact_img {
+  float: left;
+  width: 20%;
+  margin: 0 2rem 1rem 1rem;
 }
 
 .contact {
-  margin-left: 35%;
+  padding-left: 40%;
+  margin: 0 auto;
 }
 
 .contact_details {
-  margin: 0 10% 12% 10%;
-  line-height: 2rem;
 
+  margin-top: 3rem;
+  text-align: justify;
 }
 
 
