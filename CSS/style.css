@@ -184,9 +184,9 @@ span {
 }
 
 
-#contact_info {
+#sm_info {
 /*  background-color: #E4E3E8;*/
-  margin: 1% 10%;
+  margin: 2% 5%;
   text-align: center;
 
 }
@@ -248,9 +248,10 @@ p {
 /*//Contacts Style*/
 
 #contact_info {
-  max-width: 60%;
+  max-width: 40%;
   padding-top: 16rem;
   margin: 0 auto;
+  margin-bottom: 5%;
 }
 
 #contact_img {
@@ -260,6 +261,7 @@ p {
 }
 
 .contact {
+  padding-left: 40%;
   margin: 0 auto;
 }
 
@@ -360,10 +362,11 @@ h2 {
   padding-top: 6rem;
 }
 
-#contact_info {
+/*//footer*/
+/*#sm_info {
    margin: 2% 5%;
 }
-
+*/
 /*//about_me*/
 
 #about_info {
