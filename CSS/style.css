@@ -421,19 +421,20 @@ h3 {
 
 #contact_info {
   max-width: 80%;
-  padding-top: 16rem;
+  padding-top: 8rem;
   margin: 0 auto;
-  margin-bottom: 5%;
+  margin-bottom: 10%;
 }
 
 #contact_img {
   float: left;
   width: 40%;
-  margin: 0 2rem 1rem 1rem;
+  margin-left: : 1rem;
+  margin-bottom: 1rem;
 }
 
 .contact {
-  padding-left: 20%;
+  padding-left: 30%;
 }
 
 .contact_details {
