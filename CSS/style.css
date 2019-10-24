@@ -247,17 +247,28 @@ p {
 
 /*//Contacts Style*/
 
-.contact_info {
-  padding-top: 14rem;
+#contact_info {
+  max-width: 60%;
+  padding-top: 16rem;
+  margin: 0 auto;
+}
+
+#contact_img {
+  float: left;
+  width: 20%;
+  margin: 0 2rem 1rem 1rem;
 }
 
 .contact {
-  margin-left: 45%;
+  margin: 0 auto;
 }
 
 .contact_details {
-  margin: 0 30% 12% 30%;
-  line-height: 2rem;
+
+  margin-top: 3rem;
+  text-align: justify;
+  /*margin: 0 30% 12% 30%;*/
+  /*line-height: 2rem;*/
 
 }
 
@@ -405,7 +416,7 @@ h3 {
 
 /*//Contacts Style*/
 
-.contact_info {
+#contact_info {
   padding-top: 8rem;
   padding-bottom: 8rem;
 }
@@ -419,6 +430,8 @@ h3 {
   line-height: 2rem;
 
 }
+
+
 
 
 }
