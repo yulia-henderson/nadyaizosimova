@@ -481,12 +481,11 @@ h3 {
   }
 
   #column_1, #column_2, #column_3 {
-    width: 25%;
+    width: 28%;
 }
 
  #products {
    max-width: 80%;
-   margin: 0 auto;
 }
 
 #navbar a{
